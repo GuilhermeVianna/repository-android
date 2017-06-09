@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1036131497121",
+    "firebase_url": "https://quinta-beer-fb43f.firebaseio.com",
+    "project_id": "quinta-beer-fb43f",
+    "storage_bucket": "quinta-beer-fb43f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036131497121:android:c98b26f3a185c606",
+        "android_client_info": {
+          "package_name": "com.cursoandroid.flappybirdguilherme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036131497121-ud3bob7uar9mgqg2upsvj2irq2lbsrgs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cursoandroid.flappybirdguilherme",
+            "certificate_hash": "d8cd4c8e0b47249724fd079c74e14623b4b03894"
+          }
+        },
+        {
+          "client_id": "1036131497121-cfkffh6u3m27873juo1k1tkptic7tigd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrOagS-VsFU8-6a5R1RA18Q_J28vpST5c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036131497121-cfkffh6u3m27873juo1k1tkptic7tigd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
