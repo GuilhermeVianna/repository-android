@@ -1,0 +1,1 @@
+Utilização da propriedade Checkbox.
