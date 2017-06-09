@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "950476827037",
+    "firebase_url": "https://papo-10.firebaseio.com",
+    "project_id": "papo-10",
+    "storage_bucket": "papo-10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950476827037:android:3d34de6ae23bfac9",
+        "android_client_info": {
+          "package_name": "com.gvdev.devmobile.papo10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950476827037-rmmps5o399j0t752e6frubip24ihishs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gvdev.devmobile.papo10",
+            "certificate_hash": "d8cd4c8e0b47249724fd079c74e14623b4b03894"
+          }
+        },
+        {
+          "client_id": "950476827037-13p7mg9pqvcbflv02ij83r47pplngjue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLavPDfFP2-m7fMKCpO0gYxfX_T0CLCns"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950476827037-13p7mg9pqvcbflv02ij83r47pplngjue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

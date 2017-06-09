@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "824982112460",
+    "firebase_url": "https://purrinha-game.firebaseio.com",
+    "project_id": "purrinha-game",
+    "storage_bucket": "purrinha-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824982112460:android:7c7901792543a918",
+        "android_client_info": {
+          "package_name": "com.gvdev.purrinha.purrinha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824982112460-6lbbcdl5mcrm1d882bqg232o2odct7mg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gvdev.purrinha.purrinha",
+            "certificate_hash": "d8cd4c8e0b47249724fd079c74e14623b4b03894"
+          }
+        },
+        {
+          "client_id": "824982112460-3d0gsk7g25k9cgc6gv1buk6dejdl9r4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX2WgIVoj7BtQj2hPUn5H-i__SBZf0H4E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824982112460-3d0gsk7g25k9cgc6gv1buk6dejdl9r4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
